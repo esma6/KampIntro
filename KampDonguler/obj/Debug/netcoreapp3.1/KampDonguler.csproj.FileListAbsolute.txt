@@ -1,0 +1,13 @@
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\obj\Debug\netcoreapp3.1\KampDonguler.csprojAssemblyReference.cache
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\obj\Debug\netcoreapp3.1\KampDonguler.AssemblyInfoInputs.cache
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\obj\Debug\netcoreapp3.1\KampDonguler.AssemblyInfo.cs
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\obj\Debug\netcoreapp3.1\KampDonguler.csproj.CoreCompileInputs.cache
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\bin\Debug\netcoreapp3.1\KampDonguler.exe
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\bin\Debug\netcoreapp3.1\KampDonguler.deps.json
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\bin\Debug\netcoreapp3.1\KampDonguler.runtimeconfig.json
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\bin\Debug\netcoreapp3.1\KampDonguler.runtimeconfig.dev.json
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\bin\Debug\netcoreapp3.1\KampDonguler.dll
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\bin\Debug\netcoreapp3.1\KampDonguler.pdb
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\obj\Debug\netcoreapp3.1\KampDonguler.dll
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\obj\Debug\netcoreapp3.1\KampDonguler.pdb
+C:\Users\ESMA\source\repos\KampIntro\KampDonguler\obj\Debug\netcoreapp3.1\KampDonguler.genruntimeconfig.cache

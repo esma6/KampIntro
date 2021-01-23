@@ -1,0 +1,13 @@
+C:\Users\ESMA\source\repos\KampIntro\siniflar\bin\Debug\netcoreapp3.1\siniflar.exe
+C:\Users\ESMA\source\repos\KampIntro\siniflar\bin\Debug\netcoreapp3.1\siniflar.deps.json
+C:\Users\ESMA\source\repos\KampIntro\siniflar\bin\Debug\netcoreapp3.1\siniflar.runtimeconfig.json
+C:\Users\ESMA\source\repos\KampIntro\siniflar\bin\Debug\netcoreapp3.1\siniflar.runtimeconfig.dev.json
+C:\Users\ESMA\source\repos\KampIntro\siniflar\bin\Debug\netcoreapp3.1\siniflar.dll
+C:\Users\ESMA\source\repos\KampIntro\siniflar\bin\Debug\netcoreapp3.1\siniflar.pdb
+C:\Users\ESMA\source\repos\KampIntro\siniflar\obj\Debug\netcoreapp3.1\siniflar.csprojAssemblyReference.cache
+C:\Users\ESMA\source\repos\KampIntro\siniflar\obj\Debug\netcoreapp3.1\siniflar.AssemblyInfoInputs.cache
+C:\Users\ESMA\source\repos\KampIntro\siniflar\obj\Debug\netcoreapp3.1\siniflar.AssemblyInfo.cs
+C:\Users\ESMA\source\repos\KampIntro\siniflar\obj\Debug\netcoreapp3.1\siniflar.csproj.CoreCompileInputs.cache
+C:\Users\ESMA\source\repos\KampIntro\siniflar\obj\Debug\netcoreapp3.1\siniflar.dll
+C:\Users\ESMA\source\repos\KampIntro\siniflar\obj\Debug\netcoreapp3.1\siniflar.pdb
+C:\Users\ESMA\source\repos\KampIntro\siniflar\obj\Debug\netcoreapp3.1\siniflar.genruntimeconfig.cache
